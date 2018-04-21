@@ -1,0 +1,5 @@
+track GI_All
+bigDataUrl GI_All.bb
+shortLabel GI_All
+longLabel GI_All
+type bigBed
