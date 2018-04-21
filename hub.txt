@@ -1,5 +1,5 @@
 hub SmoothMuscleTranscriptomeHub
-shortLabel  SmoothMuscleData
+shortLabel SmoothMuscleData
 longLabel Smooth muscle transcriptome sequencing data
 genomesFile genomes.txt
 email sro@med.unr.edu
