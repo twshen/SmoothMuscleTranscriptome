@@ -1,2 +1,2 @@
-GI_All
-mm9/trackDb.txt
+genome mm9
+trackDb mm9/trackDb.txt
