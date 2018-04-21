@@ -1,2 +1,6 @@
-Smooth Muscle Transcriptome BigBed files hosted through githup
-email: sro@med.unr.edu
+hub SmoothMuscleTranscriptomeHub
+shortLabel  SmoothMuscleData
+longLabel Smooth muscle transcriptome sequencing data
+genomeFile genomes.txt
+email sro@med.unr.edu
+descriptionUrl https://med.unr.edu/physio/transcriptome
