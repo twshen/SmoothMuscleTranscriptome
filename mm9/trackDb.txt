@@ -3,3 +3,9 @@ bigDataUrl GI_All.bb
 shortLabel GI_All
 longLabel GI_All
 type bigBed
+
+track GI_All_1
+bigDataUrl GI_All_1.bb
+shortLabel GI_All_1
+longLabel GI_All_1
+type bigBed
