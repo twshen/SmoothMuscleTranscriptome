@@ -1,12 +1,1 @@
 https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/GI_All.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/SM_Jejunum.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/SMC_Jejunum.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/ICC_Jejunum.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/PDGFRaC_Jejunum.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/SM_Colon.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/SMC_Colon.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/ICC_Colon.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/PDGFRaC_Colon.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/Mu_Colon.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/PDGFRaC_Mu_Colon.bed.gz
-https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/CArG_Mouse_and_Human.bed.gz
