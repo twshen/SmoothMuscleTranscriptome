@@ -9,5 +9,4 @@ https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/IC
 https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/PDGFRaC_Colon.bed.gz
 https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/Mu_Colon.bed.gz
 https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/PDGFRaC_Mu_Colon.bed.gz
-https://med2.unr.edu/smtb2/CArG_Mouse.bed.gz
 https://raw.githubusercontent.com/twshen/SmoothMuscleTranscriptome/master/mm9/CArG_Mouse_and_Human.bed.gz
